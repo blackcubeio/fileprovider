@@ -1,0 +1,4 @@
+actor: LocalTester
+modules:
+    enabled:
+        - Asserts
