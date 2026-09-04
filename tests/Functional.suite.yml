@@ -1,0 +1,9 @@
+actor: FunctionalTester
+modules:
+    enabled:
+        - Asserts
+        - Filesystem
+        - REST:
+            url: http://localhost:8888
+            depends: PhpBrowser
+        - \Blackcube\FileProvider\Tests\Support\Helper\Functional

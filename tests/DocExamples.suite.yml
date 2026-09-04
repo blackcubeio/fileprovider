@@ -1,0 +1,4 @@
+actor: DocExamplesTester
+modules:
+    enabled:
+        - Asserts

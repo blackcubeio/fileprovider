@@ -1,0 +1,4 @@
+actor: ManagerTester
+modules:
+    enabled:
+        - Asserts
