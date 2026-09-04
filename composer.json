@@ -33,7 +33,7 @@
     "require": {
         "php": "^8.4",
         "ext-fileinfo": "*",
-        "blackcube/injector": "@dev",
+        "blackcube/injector": "^1.0",
         "league/flysystem": "^3.35",
         "yiisoft/aliases": "^3.1"
     },
